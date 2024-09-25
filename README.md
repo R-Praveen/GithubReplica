@@ -1,6 +1,8 @@
 GitHub Search App
 =================
-<img width="320" alt="SearchPage" src="https://github.com/user-attachments/assets/0d12a9bc-289e-428a-bac8-2e2963209a96">
+
+Screen Recording
+![ScreenRecording2024-09-25at8 29 25AM-ezgif com-optimize](https://github.com/user-attachments/assets/a156d3e6-a49c-47c9-af5c-7f9a1b59cef6)
 
 
 A Swift-based GitHub Search App that allows users to search for GitHub profiles and retrieve detailed user information along with their repositories. The app leverages Combine and SwiftUI to handle data fetching, UI updates, and clean architectural principles.
